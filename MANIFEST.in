@@ -1,0 +1,3 @@
+graft package_test
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  package_test/jupy *
